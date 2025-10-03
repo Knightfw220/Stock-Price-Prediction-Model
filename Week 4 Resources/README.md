@@ -65,7 +65,7 @@ Here:
 
 ## Tutorials and Resources
 
-### Go through the following websites:
+### Websites:
 1. [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 2. [LSTM and its diagrams](https://towardsdatascience.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
 3. [LSTM on GeeksforGeeks](https://en.wikipedia.org/wiki/Long_short-term_memory)
@@ -107,6 +107,6 @@ model.fit(X, y, epochs=10, batch_size=16)
 model.summary()
 ```
 
-This example demonstrates a simple LSTM model for regression tasks using dummy data. You can adapt it for real-world datasets and more complex use cases.
+This example demonstrates a simple LSTM model for regression tasks using dummy data. It can be adapted for real-world datasets and more complex use cases.
 
 ---
