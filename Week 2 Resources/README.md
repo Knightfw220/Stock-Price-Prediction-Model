@@ -1,6 +1,6 @@
 # Intro to ML
 
-Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro Video.
+(https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro Video.
 1. [What is Machine Learning?](https://www.edureka.co/blog/what-is-machine-learning/)
 2. [Mathematics for Machine Learning](https://www.edureka.co/blog/mathematics-for-machine-learning/)
 3. [Basic Intro and Terminologies](https://www.edureka.co/blog/introduction-to-machine-learning/)
@@ -19,8 +19,8 @@ Content provided below(K-means clustering and neighbours) is just if you want to
 3. [K-Nearest Neighbours](https://www.edureka.co/blog/k-nearest-neighbors-algorithm/)
 
 ## Technical Analysis
-Go through the pdf provided on Techinical Analysis : [Technical Analysis](https://github.com/aaditsule/Stock-Price-Prediction-Using-LSTM/blob/main/Week%202%20Resources/Technical%20Analysis.pdf) <br>
-You can also watch : [Technical Analysis](https://youtube.com/playlist?list=PLX2SHiKfualH_xMbGM-3zWC47s9gUjGR_&si=wKQKby2gv55NyU2W)
+[Technical Analysis](https://github.com/aaditsule/Stock-Price-Prediction-Using-LSTM/blob/main/Week%202%20Resources/Technical%20Analysis.pdf) <br>
+[Technical Analysis](https://youtube.com/playlist?list=PLX2SHiKfualH_xMbGM-3zWC47s9gUjGR_&si=wKQKby2gv55NyU2W)
 
 ## yfinance library 
 1. [How to use yfinance API](https://www.geeksforgeeks.org/how-to-use-yfinance-api-with-python/) <br>
