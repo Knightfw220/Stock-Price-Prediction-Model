@@ -17,4 +17,3 @@ PyTorch is an open-source deep learning library developed by Facebook's AI Resea
 Alternatively, you could watch [**this YouTube tutorial**](https://www.youtube.com/watch?v=BzcBsTou0C0) as well.
 
 Or MIT lecture series for the same https:[MIT Lecture](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=eJaVT41ls8D08PtV).
-Although this is completely optional!
