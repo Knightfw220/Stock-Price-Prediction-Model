@@ -40,36 +40,6 @@ The system should:
 
 ---
 
-## Tasks and Deliverables
-
-### Task 1: Data Collection
-1. Prompt the user for stock name, start date, end date, and timeframe.
-2. Use the `yfinance` library to fetch historical stock data based on user input.
-
-### Task 2: Data Visualization
-1. Plot the adjusted closing price of the stock over time.
-2. Calculate and plot at least two technical indicators, such as:
-   - Moving Average Convergence Divergence (MACD).
-   - Relative Strength Index (RSI).
-   - Simple/Exponential Moving Averages.
-   - Bollinger Bands.
-
-### Task 3: Data Preprocessing
-1. Normalize the stock price and technical indicator data for use in the LSTM model.
-2. Create sequences of data (e.g., sliding window of past 60 days) to use as input for the model.
-
-### Task 4: Build the LSTM Model
-1. Design an LSTM model using a deep learning framework such as TensorFlow or PyTorch.
-2. Train the model using the prepared data.
-3. Evaluate the model's performance and fine-tune as needed.
-
-### Task 5: Prediction and Visualization
-1. Predict the next 15 units of data using the trained LSTM model.
-2. Visualize:
-   - Predicted values vs. actual values for the training period.
-   - Forecasted prices for the next 15 units.
-3. Calculate the R² score using the formula provided above.
-
 
 Resources
 
@@ -84,12 +54,10 @@ Resources
 4. [Scikit-learn](https://scikit-learn.org/stable/)
 5. [yfinance](https://pypi.org/project/yfinance/)
 
-### Videos (DO NOT COPY-PASTE CODE FROM THESE VIDEOS)
+### Videos
 1. [Stock Price Prediction with LSTMs](https://www.youtube.com/watch?v=QIUxPv5PJOY)
 2. [RNN/LSTM Price Movement Predictions](https://youtu.be/hpfQE0bTeA4?si=Y5RMAC6vz1Xf5lb1)
 3. [Mistakes while using LSTM](https://youtu.be/lhrCz6t7rmQ?si=Ufds96Ln9lQIMQ38)
 
 ---
-## Submission Link
-Submit your link to github repository [Here](https://forms.gle/NrdnbqLA6T9ZiUyg8) <br>
-Good luck!!
+
