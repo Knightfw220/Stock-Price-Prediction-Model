@@ -6,7 +6,7 @@ The goal of this project is to build a deep learning model using LSTMs to predic
 ---
 
 ## Problem Statement
-You are required to build a stock price prediction system using Long Short-Term Memory (LSTM) networks. <br>
+Build a stock price prediction system using Long Short-Term Memory (LSTM) networks. <br>
 The system should:
 
 1. **Take user input** for:
@@ -70,55 +70,8 @@ The system should:
    - Forecasted prices for the next 15 units.
 3. Calculate the R² score using the formula provided above.
 
-### Task 6: Submission
-1. **Prepare the following for submission:**
-   - Python script or Jupyter Notebook implementing the entire project.
-   - A `README.md` file explaining the implementation and results.
-   - Visualizations generated during the project.
 
-2. **Submit the project on a GitHub repository**:
-   - Create a new repository on GitHub.
-   - Upload your project files, including the Python script/Notebook, `README.md`, and visualizations.
-   - Include a clear project description in the repository's README file.
-
----
-### Brief Guide to Upload on GitHub
-1. Create a GitHub account if you don’t have one.
-2. Navigate to [GitHub](https://github.com/) and click on "New" to create a repository.
-3. Initialize the repository with a name and optional description.
-4. Clone the repository to your local machine using:
-   ```bash
-   git clone <repository_url>
-   ```
-5. Add your project files to the repository folder.
-6. Stage and commit the changes:
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   ```
-7. Push the changes to GitHub:
-   ```bash
-   git push origin main
-   ```
-
----
-
-## Guidelines
-
-1. **Programming Language and Tools**:
-   - Use Python for implementation.
-   - Recommended libraries include `yfinance`, `matplotlib`, `pandas`, `numpy`, `tensorflow`/`pytorch`, and `scikit-learn`.
-
-2. **Technical Indicators**:
-   - Choose two technical indicators relevant to your analysis. Briefly explain their significance in the README.
-
-3. **Documentation**:
-   - Comment your code for clarity.
-   - Provide a `README.md` file with instructions on how to run the code and interpret the results.
-
----
-
-## Resources
+Resources
 
 ### Tutorials
 1. [LSTM Time Series Forecasting with TensorFlow](https://www.tensorflow.org/tutorials/structured_data/time_series)
